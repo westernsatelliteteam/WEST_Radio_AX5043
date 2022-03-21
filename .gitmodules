@@ -1,0 +1,3 @@
+[submodule "hw_design/Libraries/WEST_Altium_Libraries"]
+	path = hw_design/Libraries/WEST_Altium_Libraries
+	url = git@github.com:westernsatelliteteam/WEST_Altium_Libraries.git
